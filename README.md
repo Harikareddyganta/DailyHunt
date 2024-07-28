@@ -32,6 +32,9 @@ DailyHunt is a browser extension that makes accessing the problem of the day on 
 4. Select the `build` directory from the project.
 5. Click on the extension icon in the browser toolbar and then click on the "POTD" button to access the daily challenge on LeetCode or GeeksforGeeks.
 
+## Demo Video
+
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
