@@ -26,7 +26,7 @@ DailyHunt is a browser extension that makes accessing the problem of the day on 
     - For Firefox: `about:addons`
 2. Enable "Developer mode" and click "Load unpacked" (Chrome) or "Load Temporary Add-on" (Firefox).
 3. Select the `build` directory from the project.
-4. Click on the extension icon in the browser toolbar and then click on the "POTD" button to access the daily challenge on LeetCode or GeeksforGeeks.
+4. Click on the extension icon in the browser toolbar and then click on the "POTD" button to access the daily challenge on LeetCode and GeeksforGeeks.
 
 ## Demo Video
 
